@@ -71,8 +71,9 @@ Busco minha primeira oportunidade como estagiário na área de desenvolvimento, 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=rhuanalvesfullstack&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+</p>
 
 <img 
       align="left" 
