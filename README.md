@@ -2,10 +2,11 @@
 
 **`Desenvolvedor em formação | Full Stack`**
 
-Me chamo Rhuan Alves, estou cursando o ensino médio integrado ao técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou focado em me tornar um desenvolvedor Full Stack.
+Sou Rhuan Alves, estudante de Análise e Desenvolvimento de Sistemas (ADS) e do curso técnico em Desenvolvimento de Sistemas, com foco em me tornar desenvolvedor Full Stack.
 
-Atualmente, estou desenvolvendo minhas habilidades em programação, com foco em lógica, Java e desenvolvimento web. Busco constantemente evoluir através de estudos práticos, projetos e desafios de programação.
+Atualmente, estou desenvolvendo minhas habilidades em programação, com ênfase em lógica, Java e desenvolvimento web. Tenho direcionado meus estudos para a prática, construindo projetos e resolvendo desafios para consolidar meu conhecimento e evoluir de forma consistente.
 
+Busco minha primeira oportunidade na área de tecnologia, onde eu possa aplicar o que venho aprendendo, adquirir experiência prática e continuar evoluindo como desenvolvedor.
 ---
 
 ### 🚀 Objetivo
