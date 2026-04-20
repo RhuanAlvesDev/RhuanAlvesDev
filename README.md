@@ -6,7 +6,6 @@ Sou Rhuan Alves, estudante de Análise e Desenvolvimento de Sistemas (ADS) e do 
 
 Atualmente, estou desenvolvendo minhas habilidades em programação, com ênfase em lógica, Java e desenvolvimento web. Tenho direcionado meus estudos para a prática, construindo projetos e resolvendo desafios para consolidar meu conhecimento e evoluir de forma consistente.
 
-Busco minha primeira oportunidade na área de tecnologia, onde eu possa aplicar o que venho aprendendo, adquirir experiência prática e continuar evoluindo como desenvolvedor.
 ---
 
 ### 🚀 Objetivo
