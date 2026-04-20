@@ -76,10 +76,10 @@ Busco minha primeira oportunidade como estagiário na área de desenvolvimento, 
 </p>
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanalvesfullstack&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
 
 </p>
